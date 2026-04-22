@@ -1,7 +1,6 @@
 import sys
 
 import torch
-import transformer_lens
 
 
 def main() -> None:
